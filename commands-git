@@ -2,3 +2,4 @@ git clone https://github.com/raphael-attias/git-begins
 git add document
 git commit
 git push
+git pull
